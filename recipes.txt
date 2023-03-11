@@ -5,6 +5,8 @@ loops
 functions
 oops
 
+modules
+operators
 
 
 
